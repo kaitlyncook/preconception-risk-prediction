@@ -4,8 +4,7 @@
 
 library(mice)
 source("calcHUM-IPW.R")
-source("selection-and-prediction-functions.R")
-source("data-cleaning-and-bootstrapping-functions.R")
+source("risk-prediction-functions.R")
 
 ### Note:
   # The data file used in this script (containing de-identified pregnancy outcome 
