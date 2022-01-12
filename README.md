@@ -9,4 +9,4 @@ The scripts require that the following packages are installed in R: *discSurv*, 
 * **preconception-prediction-script.R**: Illustrates estimation and validation of a multistate competing risks model for preconception prediction of pregnancy outcomes in the [Effects of Aspirin in Gestation and Reproduction (EAGeR)](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60157-4/fulltext) trial population. Sources **calcHUM-IPW.R** and **risk-prediction-functions.R**.
 
 ## Data
-The de-identified EAGeR data used in **preconception-prediction-script.R** are available on reasonable request. Please contact Kaitlyn Cook ([kacook17@gmail.com](mailto:kacook17@gmail.com)) with questions or requests.
+The de-identified EAGeR data used in **preconception-prediction-script.R** are available on reasonable request. Please contact Kaitlyn Cook [kacook17@gmail.com](mailto:kacook17@gmail.com) with questions or requests.
